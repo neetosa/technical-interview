@@ -1,0 +1,6 @@
+customer_id,total_spent,average_purchase_value,number_of_purchases,most_frequent_category,last_purchase_date
+CUST_016,1384.32,106.49,13,Books,2023-07-18
+CUST_031,356.43,118.81,3,Electronics,2023-05-27
+CUST_041,488.21,122.05,4,Books,2023-06-06
+CUST_048,1067.98,97.09,11,Electronics,2023-07-14
+CUST_067,1058.82,105.88,10,Sports,2023-06-14
